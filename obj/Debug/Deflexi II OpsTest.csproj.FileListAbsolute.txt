@@ -1,0 +1,13 @@
+C:\TeqconFiles\VStudio\Deflexi II OpsTest\Deflexi II OpsTest\bin\Debug\Deflexi II OpsTest.exe.config
+C:\TeqconFiles\VStudio\Deflexi II OpsTest\Deflexi II OpsTest\obj\Debug\Deflexi II OpsTest.csprojResolveAssemblyReference.cache
+C:\TeqconFiles\VStudio\Deflexi II OpsTest\Deflexi II OpsTest\obj\Debug\Deflexi_II_OpsTest.Form1.resources
+C:\TeqconFiles\VStudio\Deflexi II OpsTest\Deflexi II OpsTest\obj\Debug\Deflexi_II_OpsTest.Properties.Resources.resources
+C:\TeqconFiles\VStudio\Deflexi II OpsTest\Deflexi II OpsTest\obj\Debug\Deflexi_II_OpsTest.Serialnum.resources
+C:\TeqconFiles\VStudio\Deflexi II OpsTest\Deflexi II OpsTest\obj\Debug\Deflexi II OpsTest.csproj.GenerateResource.Cache
+C:\TeqconFiles\VStudio\Deflexi II OpsTest\Deflexi II OpsTest\bin\Debug\Deflexi OpTest Criteria.txt
+C:\TeqconFiles\VStudio\Deflexi II OpsTest\Deflexi II OpsTest\bin\Debug\Deflexi II OpsTest.exe
+C:\TeqconFiles\VStudio\Deflexi II OpsTest\Deflexi II OpsTest\bin\Debug\Deflexi II OpsTest.pdb
+C:\TeqconFiles\VStudio\Deflexi II OpsTest\Deflexi II OpsTest\bin\Debug\FTD2XX_NET.dll
+C:\TeqconFiles\VStudio\Deflexi II OpsTest\Deflexi II OpsTest\bin\Debug\FTD2XX_NET.xml
+C:\TeqconFiles\VStudio\Deflexi II OpsTest\Deflexi II OpsTest\obj\Debug\Deflexi II OpsTest.exe
+C:\TeqconFiles\VStudio\Deflexi II OpsTest\Deflexi II OpsTest\obj\Debug\Deflexi II OpsTest.pdb

@@ -1,0 +1,10 @@
+Date-Time of Test: 2018/01/09 18:38:36
+Serial Number: 7_017486300036
+Test Results: False
+Communication Test: True
+Reed Switch: False
+Offset results
+CH1: 1.096,1.096,0.037,True,1.09,1.102,0.483,True,1.11,1.153,0.909,True,1.093,1.14,0.937,True
+CH2: 1.108,1.108,0.043,True,1.101,1.113,0.492,True,1.127,1.173,0.935,True,1.114,1.162,0.965,True
+CH3: 1.083,1.083,0.037,True,1.076,1.089,0.49,True,1.102,1.148,0.911,True,1.09,1.138,0.952,True
+CH4: 1.091,1.091,0.039,True,1.085,1.097,0.492,True,1.111,1.156,0.922,True,1.099,1.147,0.952,True

@@ -1,0 +1,1 @@
+Date-Time of Test: 2018/01/11 10:59:18Serial Number: ksajasTest Results: FalseCommunication Test: FalseReed Switch: FalseOffset resultsCH1: 0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,FalseCH2: 0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,FalseCH3: 0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,FalseCH4: 0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False

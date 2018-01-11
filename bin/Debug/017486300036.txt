@@ -1,0 +1,54 @@
+Date-Time of Test: 2018/01/09 14:29:20
+Serial Number: 017486300036
+Test Results: False
+Communication Test: True
+Reed Switch: False
+Offset results
+CH1: 1.098,1.098,0.039,True,1.105,1.117,0.483,True,1.116,1.16,0.907,False,1.101,1.147,0.92,True
+CH2: 1.108,1.108,0.047,False,1.113,1.126,0.501,False,1.125,1.17,0.932,False,1.119,1.166,0.941,False
+CH3: 1.086,1.086,0.039,True,1.092,1.104,0.494,True,1.103,1.148,0.922,True,1.098,1.145,0.93,True
+CH4: 1.094,1.094,0.039,True,1.099,1.111,0.49,True,1.112,1.156,0.92,False,1.106,1.152,0.937,True
+Date-Time of Test: 2018/01/09 18:50:53
+Serial Number: 017486300036
+Test Results: False
+Communication Test: True
+Reed Switch: True
+Offset results
+CH1: 1.095,1.095,0.037,True,1.092,1.103,0.483,True,1.095,1.138,0.911,True,1.087,1.133,0.928,True
+CH2: 1.107,1.107,0.037,True,1.103,1.115,0.492,True,1.101,1.146,0.928,True,1.111,1.16,0.956,True
+CH3: 1.084,1.084,0.034,True,1.078,1.09,0.494,True,1.072,1.117,0.922,True,1.085,1.133,0.952,True
+CH4: 1.091,1.091,0.037,True,1.086,1.098,0.486,True,1.082,1.127,0.909,True,1.093,1.142,0.958,True
+Date-Time of Test: 2018/01/09 18:59:43
+Serial Number: 017486300036
+Test Results: False
+Communication Test: True
+Reed Switch: False
+Offset results
+CH1: 1.108,1.154,0.932,False,0,0,0,False,0,0,0,False,0,0,0,False
+CH2: 1.111,1.16,0.969,False,0,0,0,False,0,0,0,False,0,0,0,False
+CH3: 1.084,1.133,0.945,False,0,0,0,False,0,0,0,False,0,0,0,False
+CH4: 1.093,1.142,0.96,False,0,0,0,False,0,0,0,False,0,0,0,False
+Date-Time of Test: 2018/01/09 19:00:36
+Serial Number: 017486300036
+Test Results: False
+Communication Test: True
+Reed Switch: True
+Offset results
+CH1: 1.097,1.097,0.037,True,1.098,1.11,0.483,True,1.105,1.147,0.902,True,1.084,1.131,0.926,True
+CH2: 1.109,1.11,0.034,True,1.11,1.122,0.488,True,1.122,1.166,0.932,True,1.095,1.143,0.963,True
+CH3: 1.084,1.084,0.045,True,1.086,1.098,0.486,True,1.097,1.142,0.947,True,1.072,1.12,0.95,True
+CH4: 1.092,1.092,0.047,True,1.095,1.107,0.494,True,1.105,1.15,0.924,True,1.078,1.126,0.956,True
+Date-Time of Test: 2018/01/09 19:05:27
+Serial Number: 017486300036
+Test Results: False
+Communication Test: True
+Reed Switch: True
+Offset results
+CH1: 1.1,1.1,0.037,True,1.091,1.103,0.483,True,1.111,1.155,0.907,True,1.101,1.147,0.939,True
+CH2: 1.113,1.113,0.037,True,1.103,1.115,0.494,True,1.117,1.161,0.932,True,1.12,1.167,0.958,True
+CH3: 1.087,1.087,0.043,True,1.078,1.091,0.477,True,1.091,1.136,0.924,True,1.095,1.142,0.945,True
+CH4: 1.095,1.095,0.037,True,1.085,1.098,0.479,True,1.099,1.143,0.92,True,1.104,1.151,0.956,True
+Date-Time of Test: 2018/01/09 19:15:48Serial Number: 017486300036Test Results: TrueCommunication Test: TrueReed Switch: TrueOffset results
+CH1: 1.097,1.097,0.034,True,1.096,1.108,0.49,True,1.116,1.161,0.913,True,1.09,1.137,0.939,TrueCH2: 1.11,1.11,0.037,True,1.108,1.12,0.483,True,1.128,1.173,0.913,True,1.095,1.144,0.967,TrueCH3: 1.085,1.085,0.049,True,1.084,1.096,0.49,True,1.102,1.148,0.915,True,1.069,1.118,0.958,TrueCH4: 1.093,1.093,0.037,True,1.091,1.103,0.492,True,1.112,1.157,0.92,True,1.077,1.125,0.954,True
+Date-Time of Test: 2018/01/09 19:23:28Serial Number: 017486300036Test Results: FalseCommunication Test: TrueReed Switch: FalseOffset resultsCH1: 1.097,1.097,0.037,True,0,0,0,False,0,0,0,False,0,0,0,FalseCH2: 1.109,1.109,0.039,True,0,0,0,False,0,0,0,False,0,0,0,FalseCH3: 1.085,1.085,0.052,False,0,0,0,False,0,0,0,False,0,0,0,FalseCH4: 1.093,1.093,0.043,True,0,0,0,False,0,0,0,False,0,0,0,False
+Date-Time of Test: 2018/01/09 19:24:38Serial Number: 017486300036Test Results: TrueCommunication Test: TrueReed Switch: TrueOffset resultsCH1: 1.096,1.096,0.039,True,1.09,1.102,0.488,True,1.089,1.132,0.898,True,1.109,1.154,0.924,TrueCH2: 1.108,1.108,0.039,True,1.101,1.114,0.486,True,1.106,1.149,0.92,True,1.117,1.166,0.96,TrueCH3: 1.085,1.085,0.039,True,1.079,1.092,0.486,True,1.082,1.126,0.915,True,1.091,1.139,0.952,TrueCH4: 1.091,1.091,0.037,True,1.086,1.099,0.486,True,1.089,1.132,0.922,True,1.098,1.146,0.954,True

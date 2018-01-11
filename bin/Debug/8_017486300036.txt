@@ -1,0 +1,20 @@
+Date-Time of Test: 2018/01/09 18:44:01
+Serial Number: 8_017486300036
+Test Results: False
+Communication Test: True
+Reed Switch: False
+Offset results
+CH1: 1.096,1.096,0.034,True,1.101,1.112,0.486,True,1.113,1.156,0.904,True,1.084,1.131,0.932,True
+CH2: 1.108,1.108,0.037,True,1.111,1.123,0.483,True,1.127,1.173,0.926,True,1.095,1.143,0.952,True
+CH3: 1.085,1.085,0.06,False,1.088,1.101,0.477,True,1.103,1.149,0.922,True,1.072,1.121,0.947,True
+CH4: 1.09,1.09,0.037,True,1.095,1.107,0.488,True,1.109,1.154,0.924,True,1.08,1.129,0.956,True
+Date-Time of Test: 2018/01/09 18:47:18
+Serial Number: 8_017486300036
+Test Results: False
+Communication Test: True
+Reed Switch: False
+Offset results
+CH1: 1.096,1.096,0.037,True,1.097,1.109,0.483,True,1.079,1.122,0.909,True,1.086,1.132,0.945,True
+CH2: 1.107,1.107,0.037,True,1.112,1.124,0.49,True,1.086,1.134,0.932,True,1.093,1.141,0.95,True
+CH3: 1.084,1.084,0.062,False,1.086,1.098,0.492,True,1.066,1.113,0.928,True,1.069,1.118,0.954,True
+CH4: 1.091,1.091,0.034,True,1.091,1.103,0.488,True,1.069,1.115,0.917,True,1.076,1.124,0.954,True
