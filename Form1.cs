@@ -39,7 +39,7 @@ namespace Deflexi_II_OpsTest
         int[] data;
         bool opencomms = false;
         bool res = false;
-        int ananlogCounter = 0;
+        int ananlogCounter = -1;
 
         Label[] labelStatus = new Label[7];
         Label[,] labelAnalog = new Label[4, 4];
